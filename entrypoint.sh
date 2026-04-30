@@ -25,6 +25,7 @@ ALL_VARS=(
   "BLOSSOM_BACKUP_MEDIA"
   "BLOSSOM_ASSETS_PATH"
   "SKIP_DELETIONS"
+  "NEGENTROPY"
 )
 
 # Check if all required environment variables are set
